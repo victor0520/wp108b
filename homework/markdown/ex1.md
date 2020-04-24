@@ -27,7 +27,7 @@
 
 [連結](http://example.com)
 
-![圖](victor.jpg)
+![圖](victor.JPG)
 
 > Markdown使用電郵用字元「>」來引用。
 
