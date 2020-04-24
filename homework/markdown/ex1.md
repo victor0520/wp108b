@@ -37,4 +37,4 @@
 ------|------
 第一章 | html
 第二章 | CSS
-第三章 | JAVA第三章 | JAVAScript
+第三章 | JAVAScript
