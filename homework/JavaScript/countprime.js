@@ -7,7 +7,6 @@ function isPrime(i){
     }
     return true;
 }
-//x=3,y=15,z=0
 for(i=x;i<=y;i++){
     if(isPrime(i)){
         z+=1;
