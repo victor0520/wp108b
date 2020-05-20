@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="test.css">
+  <title>victor's website</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style type="text/css">
+#Body{
+    height:700;
+}
+
+</style>
+</head>
+<body>
+
+<div id="mySidenav" class="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <a href="https://edition.cnn.com/">NEWS</a>
+  <a href="https://www.cwb.gov.tw/V8/C/">WEATHER</a>
+  <a href="comment.html">COMMENT</a>
+  <a href="#">Contact</a>
+</div>
+
+<div class="navbar">
+  <a href="#" style="cursor:pointer" onclick="openNav()">&#9776;</a>
+  <a href="home.html">Home</a>
+  <a href="myself.html">Myself</a>
+  <div class="dropdown">
+    <button class="dropbtn">school
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="http://school.kh.edu.tw/view/index.php?WebID=261&MainType=HOME">立德國中</a>
+      <a href="https://kksh.nsysu.edu.tw/">中山附中</a>
+      <a href="https://www.nqu.edu.tw/cht/index.php?">金門大學</a>
+    </div>
+  </div> 
+</div>
+
+<div id="Body">
+    <div>
+        <img src="bitmap/victor.JPG" style="width:420px; height:620px;align-self: start;">
+        <img src="bitmap/victor1.JPG" style="width:420px; height:620px;align-self: start;">
+    </div>
+</div>
+<div style='clear:both;'></div>
+<div id="Footer">
+  <p>myphone:0978438634  mysite:金門縣金寧鄉大學路1號</p>
+</div>
+<script>
+function openNav() {
+  document.getElementById("mySidenav").style.width = "250px";
+}
+
+function closeNav() {
+  document.getElementById("mySidenav").style.width = "0";
+}
+</script>
+   
+</body>
+</html> 
