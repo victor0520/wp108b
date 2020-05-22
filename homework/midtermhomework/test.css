@@ -19,7 +19,7 @@ body {
   .sidenav a {
     padding: 8px 8px 8px 32px;
     text-decoration: none;
-    font-size: 120%;
+    font-size: 100%;
     color: #818181;
     display: block;
     transition: 0.3s;
@@ -33,7 +33,7 @@ body {
     position: absolute;
     top: 0;
     right: 25px;
-    font-size: 120%;
+    font-size: 100%;
     margin-left: 50px;
   }
   
@@ -49,7 +49,7 @@ body {
   
   .navbar a {
     float: left;
-    font-size: 120%;
+    font-size: 100%;
     color: white;
     text-align: center;
     padding: 14px 20px;
@@ -62,7 +62,7 @@ body {
   }
   
   .dropdown .dropbtn {
-    font-size: 120%;  
+    font-size: 100%;  
     border: none;
     outline: none;
     color: white;
