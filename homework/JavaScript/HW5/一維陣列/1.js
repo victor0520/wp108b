@@ -8,3 +8,5 @@ for(i=0;i<data.length;i++){
 ans = sum / data.length;
 
 console.log("%s的平均值 = %d", data, ans);
+
+

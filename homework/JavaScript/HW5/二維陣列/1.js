@@ -8,5 +8,5 @@ function add(a,b){
     }
     return x;
 }
-var a=[[1,2],[3,4]],b=[[1,1],[1,1]];
-console.log(add(a,b));
+var array1=[[1,2],[3,4]],array2=[[1,1],[1,1]];
+console.log(add(array1,array2));
