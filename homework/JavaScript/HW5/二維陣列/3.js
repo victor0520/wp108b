@@ -1,3 +1,4 @@
+/*參考自陳彥翔同學的版本，再自己寫出來*/ 
 function transpose(arry1){
     var array2=[];
     for(i=0;i<3;i++){
@@ -10,3 +11,4 @@ function transpose(arry1){
 }
 var array1=[[1,2,3],[3,2,1]];
 console.log(transpose(array1));
+/*對這個檔案的原始碼我可以完全理解*/

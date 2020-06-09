@@ -1,3 +1,4 @@
+/*參考自謝孟澔同學的版本，再自己照著寫一遍*/ 
 class Vector{
     constructor(x,y,z){
         this.x=x;
@@ -20,3 +21,4 @@ class Vector{
 }
 
 module.exports=Vector;
+/*對這個檔案的原始碼我可以完全理解*/
